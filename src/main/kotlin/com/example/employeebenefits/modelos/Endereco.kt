@@ -1,6 +1,4 @@
-package com.example.crudfuncionario.modelos
-
-import java.math.BigInteger
+package com.example.employeebenefits.modelos
 
 data class Endereco (
     var id: String? = null,
@@ -8,6 +6,6 @@ data class Endereco (
     var numero: String,
     var cidade: String,
     var estado: String,
-    var idFuncionario: String? = null
+    var idFuncionario: String
 ) {
 }

@@ -1,6 +1,6 @@
-package com.example.crudfuncionario.modelos.planossaude
+package com.example.employeebenefits.modelos.planossaude
 
-import com.example.crudfuncionario.modelos.Endereco
+import com.example.employeebenefits.modelos.Endereco
 import java.util.*
 
 data class PampulhaIntermedica (

@@ -1,6 +1,6 @@
-package com.example.crudfuncionario.repository
+package com.example.employeebenefits.repository
 
-import com.example.crudfuncionario.modelos.Endereco
+import com.example.employeebenefits.modelos.Endereco
 import org.springframework.data.mongodb.repository.MongoRepository
 import java.util.Optional
 

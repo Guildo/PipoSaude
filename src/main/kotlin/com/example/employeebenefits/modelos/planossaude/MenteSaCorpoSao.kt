@@ -1,4 +1,4 @@
-package com.example.crudfuncionario.modelos.planossaude
+package com.example.employeebenefits.modelos.planossaude
 
 data class MenteSaCorpoSao (
     val id: String? = null,

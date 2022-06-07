@@ -1,8 +1,7 @@
-package com.example.crudfuncionario.repository
+package com.example.employeebenefits.repository
 
-import com.example.crudfuncionario.modelos.planossaude.PampulhaIntermedica
+import com.example.employeebenefits.modelos.planossaude.PampulhaIntermedica
 import org.springframework.data.mongodb.repository.MongoRepository
-import java.util.Optional
 
 interface PampulhaIntermedicaRepository: MongoRepository<PampulhaIntermedica, String> {
 
